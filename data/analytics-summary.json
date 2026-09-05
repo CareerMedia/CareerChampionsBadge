@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T19:04:24.081Z",
+  "updatedAt": "2026-09-05T19:06:37.217Z",
   "totals": {
     "badgesIssued": 106,
-    "badgeViews": 366,
-    "certificateDownloads": 40,
+    "badgeViews": 367,
+    "certificateDownloads": 41,
     "generatorOpens": 141,
     "generatorCompletions": 70,
     "conversionRate": 49.6,
@@ -70,8 +70,8 @@
       "key": "2026-09",
       "label": "Sep 2026",
       "badgesIssued": 24,
-      "badgeViews": 37,
-      "certificateDownloads": 25,
+      "badgeViews": 38,
+      "certificateDownloads": 26,
       "generatorOpens": 28,
       "generatorCompletions": 24,
       "uniqueVisitorsApprox": 36,
@@ -83,8 +83,8 @@
       "key": "2026",
       "label": "2026",
       "badgesIssued": 106,
-      "badgeViews": 366,
-      "certificateDownloads": 40,
+      "badgeViews": 367,
+      "certificateDownloads": 41,
       "generatorOpens": 141,
       "generatorCompletions": 70,
       "uniqueVisitorsApprox": 267,
@@ -106,8 +106,8 @@
       "id": "career-activated",
       "title": "Career Activated",
       "badgesIssued": 32,
-      "badgeViews": 39,
-      "certificateDownloads": 28,
+      "badgeViews": 40,
+      "certificateDownloads": 29,
       "generatorOpens": 51,
       "generatorCompletions": 32,
       "conversionRate": 62.7
@@ -675,6 +675,18 @@
       "latestViewedAt": "2026-09-03T04:46:58.274Z"
     },
     {
+      "slug": "ariel-delgado-career-activated-csuncc-20260905-0002",
+      "badgeId": "CSUNCC-20260905-0002",
+      "awardeeName": "Ariel Delgado",
+      "badgeTitle": "Career Activated",
+      "badgeTemplateId": "career-activated",
+      "publicUrl": "https://careerbadge.csun.edu/badges/ariel-delgado-career-activated-csuncc-20260905-0002/",
+      "badgesIssued": 1,
+      "badgeViews": 2,
+      "certificateDownloads": 2,
+      "latestViewedAt": "2026-09-05T19:06:19.989Z"
+    },
+    {
       "slug": "jose-vargas-career-activated-csuncc-20260831-0001",
       "badgeId": "CSUNCC-20260831-0001",
       "awardeeName": "Jose Vargas",
@@ -853,18 +865,6 @@
       "badgeViews": 1,
       "certificateDownloads": 1,
       "latestViewedAt": "2026-09-04T01:08:36.419Z"
-    },
-    {
-      "slug": "ariel-delgado-career-activated-csuncc-20260905-0002",
-      "badgeId": "CSUNCC-20260905-0002",
-      "awardeeName": "Ariel Delgado",
-      "badgeTitle": "Career Activated",
-      "badgeTemplateId": "career-activated",
-      "publicUrl": "https://careerbadge.csun.edu/badges/ariel-delgado-career-activated-csuncc-20260905-0002/",
-      "badgesIssued": 1,
-      "badgeViews": 1,
-      "certificateDownloads": 1,
-      "latestViewedAt": "2026-09-05T19:04:24.076Z"
     },
     {
       "slug": "ricardo-vargas-career-champion-csuncc-20260408-0005",
@@ -1669,6 +1669,12 @@
       "certificateDownloads": 2
     },
     {
+      "awardeeName": "Ariel Delgado",
+      "badgesIssued": 1,
+      "badgeViews": 2,
+      "certificateDownloads": 2
+    },
+    {
       "awardeeName": "Jennifer Sandoval",
       "badgesIssued": 1,
       "badgeViews": 3,
@@ -1754,12 +1760,6 @@
     },
     {
       "awardeeName": "Noah Beubis",
-      "badgesIssued": 1,
-      "badgeViews": 1,
-      "certificateDownloads": 1
-    },
-    {
-      "awardeeName": "Ariel Delgado",
       "badgesIssued": 1,
       "badgeViews": 1,
       "certificateDownloads": 1
