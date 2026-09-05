@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T19:03:24.276Z",
+  "updatedAt": "2026-09-05T19:04:24.081Z",
   "totals": {
-    "badgesIssued": 105,
-    "badgeViews": 365,
-    "certificateDownloads": 39,
+    "badgesIssued": 106,
+    "badgeViews": 366,
+    "certificateDownloads": 40,
     "generatorOpens": 141,
-    "generatorCompletions": 69,
-    "conversionRate": 48.9,
+    "generatorCompletions": 70,
+    "conversionRate": 49.6,
     "uniqueVisitorsApprox": 267
   },
   "months": [
@@ -69,26 +69,26 @@
     {
       "key": "2026-09",
       "label": "Sep 2026",
-      "badgesIssued": 23,
-      "badgeViews": 36,
-      "certificateDownloads": 24,
+      "badgesIssued": 24,
+      "badgeViews": 37,
+      "certificateDownloads": 25,
       "generatorOpens": 28,
-      "generatorCompletions": 23,
+      "generatorCompletions": 24,
       "uniqueVisitorsApprox": 36,
-      "conversionRate": 82.1
+      "conversionRate": 85.7
     }
   ],
   "years": [
     {
       "key": "2026",
       "label": "2026",
-      "badgesIssued": 105,
-      "badgeViews": 365,
-      "certificateDownloads": 39,
+      "badgesIssued": 106,
+      "badgeViews": 366,
+      "certificateDownloads": 40,
       "generatorOpens": 141,
-      "generatorCompletions": 69,
+      "generatorCompletions": 70,
       "uniqueVisitorsApprox": 267,
-      "conversionRate": 48.9
+      "conversionRate": 49.6
     }
   ],
   "badgeTypes": [
@@ -105,12 +105,12 @@
     {
       "id": "career-activated",
       "title": "Career Activated",
-      "badgesIssued": 31,
-      "badgeViews": 38,
-      "certificateDownloads": 27,
+      "badgesIssued": 32,
+      "badgeViews": 39,
+      "certificateDownloads": 28,
       "generatorOpens": 51,
-      "generatorCompletions": 31,
-      "conversionRate": 60.8
+      "generatorCompletions": 32,
+      "conversionRate": 62.7
     },
     {
       "id": "fhtc-e-badge",
@@ -855,6 +855,18 @@
       "latestViewedAt": "2026-09-04T01:08:36.419Z"
     },
     {
+      "slug": "ariel-delgado-career-activated-csuncc-20260905-0002",
+      "badgeId": "CSUNCC-20260905-0002",
+      "awardeeName": "Ariel Delgado",
+      "badgeTitle": "Career Activated",
+      "badgeTemplateId": "career-activated",
+      "publicUrl": "https://careerbadge.csun.edu/badges/ariel-delgado-career-activated-csuncc-20260905-0002/",
+      "badgesIssued": 1,
+      "badgeViews": 1,
+      "certificateDownloads": 1,
+      "latestViewedAt": "2026-09-05T19:04:24.076Z"
+    },
+    {
       "slug": "ricardo-vargas-career-champion-csuncc-20260408-0005",
       "badgeId": "CSUNCC-20260408-0005",
       "awardeeName": "Ricardo Vargas",
@@ -1414,8 +1426,8 @@
       "pageKind": "specific",
       "templateId": "career-activated",
       "opens": 51,
-      "completions": 30,
-      "conversionRate": 58.8
+      "completions": 31,
+      "conversionRate": 60.8
     },
     {
       "key": "general",
@@ -1742,6 +1754,12 @@
     },
     {
       "awardeeName": "Noah Beubis",
+      "badgesIssued": 1,
+      "badgeViews": 1,
+      "certificateDownloads": 1
+    },
+    {
+      "awardeeName": "Ariel Delgado",
       "badgesIssued": 1,
       "badgeViews": 1,
       "certificateDownloads": 1

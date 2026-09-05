@@ -25153,48 +25153,6 @@
       "requestPath": "",
       "context": "completion",
       "meta": {}
-    },
-    {
-      "id": "9cc4b562-448f-4603-8c0e-889cb1b84aec",
-      "type": "certificate_downloaded",
-      "timestamp": "2026-09-05T19:04:14.587Z",
-      "monthKey": "2026-09",
-      "yearKey": "2026",
-      "badgeId": "CSUNCC-20260905-0002",
-      "badgeSlug": "ariel-delgado-career-activated-csuncc-20260905-0002",
-      "badgeTitle": "Career Activated",
-      "badgeTemplateId": "career-activated",
-      "awardeeName": "Ariel Delgado",
-      "publicUrl": "https://careerbadge.csun.edu/badges/ariel-delgado-career-activated-csuncc-20260905-0002/",
-      "pageKind": "widget-specific",
-      "generatorKey": "career-activated",
-      "generatorLabel": "",
-      "source": "generator-page",
-      "visitorId": "1f3093bdd33a76a93e0cd655",
-      "requestPath": "/api/analytics/track",
-      "context": "generator-certificate-download",
-      "meta": {}
-    },
-    {
-      "id": "9cacfe10-30d7-48a0-8702-a20139e348eb",
-      "type": "badge_viewed",
-      "timestamp": "2026-09-05T19:04:24.076Z",
-      "monthKey": "2026-09",
-      "yearKey": "2026",
-      "badgeId": "CSUNCC-20260905-0002",
-      "badgeSlug": "ariel-delgado-career-activated-csuncc-20260905-0002",
-      "badgeTitle": "Career Activated",
-      "badgeTemplateId": "career-activated",
-      "awardeeName": "Ariel Delgado",
-      "publicUrl": "https://careerbadge.csun.edu/badges/ariel-delgado-career-activated-csuncc-20260905-0002/",
-      "pageKind": "",
-      "generatorKey": "general",
-      "generatorLabel": "",
-      "source": "badge-page",
-      "visitorId": "1f3093bdd33a76a93e0cd655",
-      "requestPath": "/api/analytics/track",
-      "context": "public-badge-page",
-      "meta": {}
     }
   ],
   "bulkIssueJobs": [
@@ -25669,11 +25627,11 @@
   ],
   "analyticsSummary": {
     "version": 1,
-    "updatedAt": "2026-09-05T19:04:24.081Z",
+    "updatedAt": "2026-09-05T19:04:01.822Z",
     "totals": {
       "badgesIssued": 106,
-      "badgeViews": 366,
-      "certificateDownloads": 40,
+      "badgeViews": 365,
+      "certificateDownloads": 39,
       "generatorOpens": 141,
       "generatorCompletions": 70,
       "conversionRate": 49.6,
@@ -25739,8 +25697,8 @@
         "key": "2026-09",
         "label": "Sep 2026",
         "badgesIssued": 24,
-        "badgeViews": 37,
-        "certificateDownloads": 25,
+        "badgeViews": 36,
+        "certificateDownloads": 24,
         "generatorOpens": 28,
         "generatorCompletions": 24,
         "uniqueVisitorsApprox": 36,
@@ -25752,8 +25710,8 @@
         "key": "2026",
         "label": "2026",
         "badgesIssued": 106,
-        "badgeViews": 366,
-        "certificateDownloads": 40,
+        "badgeViews": 365,
+        "certificateDownloads": 39,
         "generatorOpens": 141,
         "generatorCompletions": 70,
         "uniqueVisitorsApprox": 267,
@@ -25775,8 +25733,8 @@
         "id": "career-activated",
         "title": "Career Activated",
         "badgesIssued": 32,
-        "badgeViews": 39,
-        "certificateDownloads": 28,
+        "badgeViews": 38,
+        "certificateDownloads": 27,
         "generatorOpens": 51,
         "generatorCompletions": 32,
         "conversionRate": 62.7
@@ -26524,18 +26482,6 @@
         "latestViewedAt": "2026-09-04T01:08:36.419Z"
       },
       {
-        "slug": "ariel-delgado-career-activated-csuncc-20260905-0002",
-        "badgeId": "CSUNCC-20260905-0002",
-        "awardeeName": "Ariel Delgado",
-        "badgeTitle": "Career Activated",
-        "badgeTemplateId": "career-activated",
-        "publicUrl": "https://careerbadge.csun.edu/badges/ariel-delgado-career-activated-csuncc-20260905-0002/",
-        "badgesIssued": 1,
-        "badgeViews": 1,
-        "certificateDownloads": 1,
-        "latestViewedAt": "2026-09-05T19:04:24.076Z"
-      },
-      {
         "slug": "ricardo-vargas-career-champion-csuncc-20260408-0005",
         "badgeId": "CSUNCC-20260408-0005",
         "awardeeName": "Ricardo Vargas",
@@ -27086,6 +27032,18 @@
         "badgeViews": 0,
         "certificateDownloads": 0,
         "latestViewedAt": ""
+      },
+      {
+        "slug": "ariel-delgado-career-activated-csuncc-20260905-0002",
+        "badgeId": "CSUNCC-20260905-0002",
+        "awardeeName": "Ariel Delgado",
+        "badgeTitle": "Career Activated",
+        "badgeTemplateId": "career-activated",
+        "publicUrl": "https://careerbadge.csun.edu/badges/ariel-delgado-career-activated-csuncc-20260905-0002/",
+        "badgesIssued": 1,
+        "badgeViews": 0,
+        "certificateDownloads": 0,
+        "latestViewedAt": ""
       }
     ],
     "generatorPages": [
@@ -27428,12 +27386,6 @@
         "certificateDownloads": 1
       },
       {
-        "awardeeName": "Ariel Delgado",
-        "badgesIssued": 1,
-        "badgeViews": 1,
-        "certificateDownloads": 1
-      },
-      {
         "awardeeName": "Maddie Paul",
         "badgesIssued": 2,
         "badgeViews": 0,
@@ -27597,6 +27549,12 @@
       },
       {
         "awardeeName": "Nicholas Ibarra",
+        "badgesIssued": 1,
+        "badgeViews": 0,
+        "certificateDownloads": 0
+      },
+      {
+        "awardeeName": "Ariel Delgado",
         "badgesIssued": 1,
         "badgeViews": 0,
         "certificateDownloads": 0
