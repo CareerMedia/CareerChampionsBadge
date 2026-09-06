@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T19:06:37.217Z",
+  "updatedAt": "2026-09-06T16:26:52.789Z",
   "totals": {
     "badgesIssued": 106,
-    "badgeViews": 367,
+    "badgeViews": 368,
     "certificateDownloads": 41,
     "generatorOpens": 141,
     "generatorCompletions": 70,
     "conversionRate": 49.6,
-    "uniqueVisitorsApprox": 267
+    "uniqueVisitorsApprox": 268
   },
   "months": [
     {
@@ -70,11 +70,11 @@
       "key": "2026-09",
       "label": "Sep 2026",
       "badgesIssued": 24,
-      "badgeViews": 38,
+      "badgeViews": 39,
       "certificateDownloads": 26,
       "generatorOpens": 28,
       "generatorCompletions": 24,
-      "uniqueVisitorsApprox": 36,
+      "uniqueVisitorsApprox": 37,
       "conversionRate": 85.7
     }
   ],
@@ -83,11 +83,11 @@
       "key": "2026",
       "label": "2026",
       "badgesIssued": 106,
-      "badgeViews": 367,
+      "badgeViews": 368,
       "certificateDownloads": 41,
       "generatorOpens": 141,
       "generatorCompletions": 70,
-      "uniqueVisitorsApprox": 267,
+      "uniqueVisitorsApprox": 268,
       "conversionRate": 49.6
     }
   ],
@@ -106,7 +106,7 @@
       "id": "career-activated",
       "title": "Career Activated",
       "badgesIssued": 32,
-      "badgeViews": 40,
+      "badgeViews": 41,
       "certificateDownloads": 29,
       "generatorOpens": 51,
       "generatorCompletions": 32,
@@ -411,6 +411,18 @@
       "latestViewedAt": "2026-08-28T18:49:50.487Z"
     },
     {
+      "slug": "naomi-alava-career-activated-csuncc-20260902-0005",
+      "badgeId": "CSUNCC-20260902-0005",
+      "awardeeName": "Naomi Alava",
+      "badgeTitle": "Career Activated",
+      "badgeTemplateId": "career-activated",
+      "publicUrl": "https://careerbadge.csun.edu/badges/naomi-alava-career-activated-csuncc-20260902-0005/",
+      "badgesIssued": 1,
+      "badgeViews": 4,
+      "certificateDownloads": 1,
+      "latestViewedAt": "2026-09-06T16:26:52.784Z"
+    },
+    {
       "slug": "javier-lemus-sanchez-career-activated-csuncc-20260902-0012",
       "badgeId": "CSUNCC-20260902-0012",
       "awardeeName": "Javier Lemus Sanchez",
@@ -553,18 +565,6 @@
       "badgeViews": 3,
       "certificateDownloads": 1,
       "latestViewedAt": "2026-06-09T23:13:03.215Z"
-    },
-    {
-      "slug": "naomi-alava-career-activated-csuncc-20260902-0005",
-      "badgeId": "CSUNCC-20260902-0005",
-      "awardeeName": "Naomi Alava",
-      "badgeTitle": "Career Activated",
-      "badgeTemplateId": "career-activated",
-      "publicUrl": "https://careerbadge.csun.edu/badges/naomi-alava-career-activated-csuncc-20260902-0005/",
-      "badgesIssued": 1,
-      "badgeViews": 3,
-      "certificateDownloads": 1,
-      "latestViewedAt": "2026-09-04T16:42:13.474Z"
     },
     {
       "slug": "bryce-simon-career-champion-csuncc-20260409-0003",
@@ -1597,6 +1597,12 @@
       "certificateDownloads": 1
     },
     {
+      "awardeeName": "Naomi Alava",
+      "badgesIssued": 1,
+      "badgeViews": 4,
+      "certificateDownloads": 1
+    },
+    {
       "awardeeName": "Javier Lemus Sanchez",
       "badgesIssued": 1,
       "badgeViews": 4,
@@ -1654,12 +1660,6 @@
       "awardeeName": "Matty Matador",
       "badgesIssued": 2,
       "badgeViews": 2,
-      "certificateDownloads": 1
-    },
-    {
-      "awardeeName": "Naomi Alava",
-      "badgesIssued": 1,
-      "badgeViews": 3,
       "certificateDownloads": 1
     },
     {
