@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T19:37:40.496Z",
+  "updatedAt": "2026-09-06T19:38:29.465Z",
   "totals": {
-    "badgesIssued": 108,
-    "badgeViews": 369,
+    "badgesIssued": 109,
+    "badgeViews": 370,
     "certificateDownloads": 43,
     "generatorOpens": 144,
-    "generatorCompletions": 72,
-    "conversionRate": 50,
+    "generatorCompletions": 73,
+    "conversionRate": 50.7,
     "uniqueVisitorsApprox": 271
   },
   "months": [
@@ -69,26 +69,26 @@
     {
       "key": "2026-09",
       "label": "Sep 2026",
-      "badgesIssued": 26,
-      "badgeViews": 40,
+      "badgesIssued": 27,
+      "badgeViews": 41,
       "certificateDownloads": 28,
       "generatorOpens": 31,
-      "generatorCompletions": 26,
+      "generatorCompletions": 27,
       "uniqueVisitorsApprox": 40,
-      "conversionRate": 83.9
+      "conversionRate": 87.1
     }
   ],
   "years": [
     {
       "key": "2026",
       "label": "2026",
-      "badgesIssued": 108,
-      "badgeViews": 369,
+      "badgesIssued": 109,
+      "badgeViews": 370,
       "certificateDownloads": 43,
       "generatorOpens": 144,
-      "generatorCompletions": 72,
+      "generatorCompletions": 73,
       "uniqueVisitorsApprox": 271,
-      "conversionRate": 50
+      "conversionRate": 50.7
     }
   ],
   "badgeTypes": [
@@ -105,12 +105,12 @@
     {
       "id": "career-activated",
       "title": "Career Activated",
-      "badgesIssued": 34,
-      "badgeViews": 42,
+      "badgesIssued": 35,
+      "badgeViews": 43,
       "certificateDownloads": 31,
       "generatorOpens": 54,
-      "generatorCompletions": 34,
-      "conversionRate": 63
+      "generatorCompletions": 35,
+      "conversionRate": 64.8
     },
     {
       "id": "fhtc-e-badge",
@@ -999,6 +999,18 @@
       "latestViewedAt": "2026-08-27T17:43:51.442Z"
     },
     {
+      "slug": "vanessa-padilla-career-activated-csuncc-20260906-0003",
+      "badgeId": "CSUNCC-20260906-0003",
+      "awardeeName": "Vanessa Padilla",
+      "badgeTitle": "Career Activated",
+      "badgeTemplateId": "career-activated",
+      "publicUrl": "https://careerbadge.csun.edu/badges/vanessa-padilla-career-activated-csuncc-20260906-0003/",
+      "badgesIssued": 1,
+      "badgeViews": 1,
+      "certificateDownloads": 0,
+      "latestViewedAt": "2026-09-06T19:38:29.460Z"
+    },
+    {
       "slug": "jane-doe-career-champion-csuncc-20010428-0001",
       "badgeId": "CSUNCC-20010428-0001",
       "awardeeName": "Jane Doe",
@@ -1450,8 +1462,8 @@
       "pageKind": "specific",
       "templateId": "career-activated",
       "opens": 54,
-      "completions": 33,
-      "conversionRate": 61.1
+      "completions": 34,
+      "conversionRate": 63
     },
     {
       "key": "general",
@@ -1883,6 +1895,12 @@
       "badgesIssued": 1,
       "badgeViews": 0,
       "certificateDownloads": 1
+    },
+    {
+      "awardeeName": "Vanessa Padilla",
+      "badgesIssued": 1,
+      "badgeViews": 1,
+      "certificateDownloads": 0
     },
     {
       "awardeeName": "Harsh Ahir",

@@ -25792,27 +25792,6 @@
       "requestPath": "",
       "context": "completion",
       "meta": {}
-    },
-    {
-      "id": "5fba9a7d-dfc4-4330-8f2c-88cbe2be66ec",
-      "type": "badge_viewed",
-      "timestamp": "2026-09-06T19:38:29.460Z",
-      "monthKey": "2026-09",
-      "yearKey": "2026",
-      "badgeId": "CSUNCC-20260906-0003",
-      "badgeSlug": "vanessa-padilla-career-activated-csuncc-20260906-0003",
-      "badgeTitle": "Career Activated",
-      "badgeTemplateId": "career-activated",
-      "awardeeName": "Vanessa Padilla",
-      "publicUrl": "https://careerbadge.csun.edu/badges/vanessa-padilla-career-activated-csuncc-20260906-0003/",
-      "pageKind": "",
-      "generatorKey": "general",
-      "generatorLabel": "",
-      "source": "badge-page",
-      "visitorId": "4dc504f18936bceb5f6f976e",
-      "requestPath": "/api/analytics/track",
-      "context": "public-badge-page",
-      "meta": {}
     }
   ],
   "bulkIssueJobs": [
@@ -26287,10 +26266,10 @@
   ],
   "analyticsSummary": {
     "version": 1,
-    "updatedAt": "2026-09-06T19:38:29.465Z",
+    "updatedAt": "2026-09-06T19:38:22.144Z",
     "totals": {
       "badgesIssued": 109,
-      "badgeViews": 370,
+      "badgeViews": 369,
       "certificateDownloads": 43,
       "generatorOpens": 144,
       "generatorCompletions": 73,
@@ -26357,7 +26336,7 @@
         "key": "2026-09",
         "label": "Sep 2026",
         "badgesIssued": 27,
-        "badgeViews": 41,
+        "badgeViews": 40,
         "certificateDownloads": 28,
         "generatorOpens": 31,
         "generatorCompletions": 27,
@@ -26370,7 +26349,7 @@
         "key": "2026",
         "label": "2026",
         "badgesIssued": 109,
-        "badgeViews": 370,
+        "badgeViews": 369,
         "certificateDownloads": 43,
         "generatorOpens": 144,
         "generatorCompletions": 73,
@@ -26393,7 +26372,7 @@
         "id": "career-activated",
         "title": "Career Activated",
         "badgesIssued": 35,
-        "badgeViews": 43,
+        "badgeViews": 42,
         "certificateDownloads": 31,
         "generatorOpens": 54,
         "generatorCompletions": 35,
@@ -27286,18 +27265,6 @@
         "latestViewedAt": "2026-08-27T17:43:51.442Z"
       },
       {
-        "slug": "vanessa-padilla-career-activated-csuncc-20260906-0003",
-        "badgeId": "CSUNCC-20260906-0003",
-        "awardeeName": "Vanessa Padilla",
-        "badgeTitle": "Career Activated",
-        "badgeTemplateId": "career-activated",
-        "publicUrl": "https://careerbadge.csun.edu/badges/vanessa-padilla-career-activated-csuncc-20260906-0003/",
-        "badgesIssued": 1,
-        "badgeViews": 1,
-        "certificateDownloads": 0,
-        "latestViewedAt": "2026-09-06T19:38:29.460Z"
-      },
-      {
         "slug": "jane-doe-career-champion-csuncc-20010428-0001",
         "badgeId": "CSUNCC-20010428-0001",
         "awardeeName": "Jane Doe",
@@ -27736,6 +27703,18 @@
         "badgeTitle": "Career Activated",
         "badgeTemplateId": "career-activated",
         "publicUrl": "https://careerbadge.csun.edu/badges/nicholas-ibarra-career-activated-csuncc-20260905-0001/",
+        "badgesIssued": 1,
+        "badgeViews": 0,
+        "certificateDownloads": 0,
+        "latestViewedAt": ""
+      },
+      {
+        "slug": "vanessa-padilla-career-activated-csuncc-20260906-0003",
+        "badgeId": "CSUNCC-20260906-0003",
+        "awardeeName": "Vanessa Padilla",
+        "badgeTitle": "Career Activated",
+        "badgeTemplateId": "career-activated",
+        "publicUrl": "https://careerbadge.csun.edu/badges/vanessa-padilla-career-activated-csuncc-20260906-0003/",
         "badgesIssued": 1,
         "badgeViews": 0,
         "certificateDownloads": 0,
@@ -28184,12 +28163,6 @@
         "certificateDownloads": 1
       },
       {
-        "awardeeName": "Vanessa Padilla",
-        "badgesIssued": 1,
-        "badgeViews": 1,
-        "certificateDownloads": 0
-      },
-      {
         "awardeeName": "Harsh Ahir",
         "badgesIssued": 1,
         "badgeViews": 0,
@@ -28263,6 +28236,12 @@
       },
       {
         "awardeeName": "Nicholas Ibarra",
+        "badgesIssued": 1,
+        "badgeViews": 0,
+        "certificateDownloads": 0
+      },
+      {
+        "awardeeName": "Vanessa Padilla",
         "badgesIssued": 1,
         "badgeViews": 0,
         "certificateDownloads": 0
