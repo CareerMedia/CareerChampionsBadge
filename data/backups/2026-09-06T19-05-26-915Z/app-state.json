@@ -9648,100 +9648,6 @@
       "openBadgeJsonPath": "docs/badges/valeria-career-activated-csuncc-20260906-0001/open-badge.json",
       "verifiableCredentialPath": "docs/badges/valeria-career-activated-csuncc-20260906-0001/credential.json",
       "verificationHash": "c2a13dcb6f9727955626550a486a09584841d5b088bb8a3d806fa7f536fa4e27"
-    },
-    {
-      "id": "CSUNCC-20260906-0002",
-      "awardeeName": "Valeria",
-      "awardeeEmail": "valeria.sanchez.106@my.csun.edu",
-      "issueDate": "September 6, 2026",
-      "issueDateISO": "2026-09-06",
-      "badgeTemplateId": "career-activated",
-      "badgeTitle": "Career Activated",
-      "badgeLabel": "Career Activated",
-      "description": "Awarded to students who have taken action to explore their career path, engage with Career Center resources, and build a personalized plan for their future.",
-      "publicSummary": "Awarded to students who have taken action to explore their career path, engage with Career Center resources, and build a personalized plan for their future.",
-      "meaning": "The Career Activated badge represents a turning point, where exploration becomes action. Recipients have moved beyond uncertainty by identifying their strengths, exploring career options, and actively using CSUN Career Center tools to create a clear, personalized path forward.",
-      "criteria": "Complete all course modules and video content\r\nParticipate in all required reflections and activities\r\nActivate and complete their Handshake profile\r\nEngage with Career Center tools\r\nComplete the Career Journey Assessment",
-      "evidenceLabel": "Evidence",
-      "evidencePrompt": "",
-      "evidenceExampleUrl": "",
-      "evidenceDescription": "",
-      "evidenceUrl": "",
-      "evidenceText": "",
-      "skills": [
-        "Career Exploration",
-        "Self-Assessment",
-        "Career Planning",
-        "Goal Setting",
-        "Professional Development",
-        "Networking Fundamentals",
-        "Resume & Career Readiness"
-      ],
-      "standards": [
-        "Aligned with NACE Career Readiness Competencies"
-      ],
-      "pathwayId": "",
-      "pathwayTitle": "Career Activated",
-      "pathwayDescription": "",
-      "pathwayOrder": 1,
-      "pathwayItems": [],
-      "issuerName": "California State University, Northridge",
-      "issuerOrganization": "CSUN Career Center",
-      "issuerWebsite": "https://csun.edu",
-      "careerCenterUrl": "https://csun.edu/career",
-      "issuerContactEmail": "career.center@csun.edu",
-      "issuerVerificationNote": "Official credential records are maintained by the CSUN Career Center.",
-      "issuerRegistryUrl": "",
-      "issuerTrustLabel": "Official issuer",
-      "badgeImage": "assets/uploads/badge-icons/career-activated-icon-1778008570005.png",
-      "certificateBackground": "assets/uploads/certificate-backgrounds/career-activated-certificate-1778008752908.png",
-      "certificateTemplateApplied": {
-        "backgroundImage": "assets/uploads/certificate-backgrounds/career-activated-certificate-1778008752908.png",
-        "fileNameSuffix": "_Certificate",
-        "name": {
-          "x": 1914,
-          "y": 1339,
-          "fontSize": 180,
-          "fontFamily": "Times New Roman",
-          "fontWeight": "bold",
-          "color": "#000000",
-          "align": "center",
-          "maxWidth": 2400
-        },
-        "date": {
-          "x": 1127,
-          "y": 2136,
-          "fontSize": 48,
-          "fontFamily": "Arial",
-          "fontWeight": "normal",
-          "color": "#333333",
-          "align": "center",
-          "maxWidth": 700
-        }
-      },
-      "verificationSections": {
-        "recipient": true,
-        "meaning": true,
-        "criteria": true,
-        "issuerTrust": true,
-        "evidence": false,
-        "skills": true,
-        "pathway": true,
-        "certificate": true
-      },
-      "status": "valid",
-      "neverExpires": true,
-      "createdAt": "2026-09-06T19:07:46.114Z",
-      "source": "public-generator",
-      "slug": "valeria-career-activated-csuncc-20260906-0002",
-      "relativeUrl": "../badges/valeria-career-activated-csuncc-20260906-0002/",
-      "relativeJsonUrl": "../badges/valeria-career-activated-csuncc-20260906-0002/details.json",
-      "publicUrl": "https://careerbadge.csun.edu/badges/valeria-career-activated-csuncc-20260906-0002/",
-      "repoPath": "docs/badges/valeria-career-activated-csuncc-20260906-0002/index.html",
-      "detailsJsonPath": "docs/badges/valeria-career-activated-csuncc-20260906-0002/details.json",
-      "openBadgeJsonPath": "docs/badges/valeria-career-activated-csuncc-20260906-0002/open-badge.json",
-      "verifiableCredentialPath": "docs/badges/valeria-career-activated-csuncc-20260906-0002/credential.json",
-      "verificationHash": "6d75178610835853a1d9a9d14778ff64471b85fffa71445ad9d1d2ca156bd6bf"
     }
   ],
   "deletedBadges": [
@@ -25509,132 +25415,6 @@
       "requestPath": "",
       "context": "completion",
       "meta": {}
-    },
-    {
-      "id": "cac61935-3295-4f50-9e61-5d2ed1ced469",
-      "type": "certificate_downloaded",
-      "timestamp": "2026-09-06T19:05:42.260Z",
-      "monthKey": "2026-09",
-      "yearKey": "2026",
-      "badgeId": "CSUNCC-20260906-0001",
-      "badgeSlug": "valeria-career-activated-csuncc-20260906-0001",
-      "badgeTitle": "Career Activated",
-      "badgeTemplateId": "career-activated",
-      "awardeeName": "Valeria",
-      "publicUrl": "https://careerbadge.csun.edu/badges/valeria-career-activated-csuncc-20260906-0001/",
-      "pageKind": "widget-specific",
-      "generatorKey": "career-activated",
-      "generatorLabel": "",
-      "source": "generator-page",
-      "visitorId": "03bf7d3cd7d646be0a0e9425",
-      "requestPath": "/api/analytics/track",
-      "context": "generator-certificate-download",
-      "meta": {}
-    },
-    {
-      "id": "0e1571f5-a82e-4a83-ae54-dbe042634eda",
-      "type": "generator_opened",
-      "timestamp": "2026-09-06T19:06:52.802Z",
-      "monthKey": "2026-09",
-      "yearKey": "2026",
-      "badgeId": "",
-      "badgeSlug": "",
-      "badgeTitle": "Career Activated",
-      "badgeTemplateId": "career-activated",
-      "awardeeName": "",
-      "publicUrl": "",
-      "pageKind": "widget-specific",
-      "generatorKey": "career-activated",
-      "generatorLabel": "Career Activated widget",
-      "source": "generator-page",
-      "visitorId": "03bf7d3cd7d646be0a0e9425",
-      "requestPath": "/api/analytics/track",
-      "context": "generator-page-open",
-      "meta": {}
-    },
-    {
-      "id": "18f7c417-8a0e-40ca-bda4-d7bb0a97cd6f",
-      "type": "badge_issued",
-      "timestamp": "2026-09-06T19:07:46.114Z",
-      "monthKey": "2026-09",
-      "yearKey": "2026",
-      "badgeId": "CSUNCC-20260906-0002",
-      "badgeSlug": "valeria-career-activated-csuncc-20260906-0002",
-      "badgeTitle": "Career Activated",
-      "badgeTemplateId": "career-activated",
-      "awardeeName": "Valeria",
-      "publicUrl": "https://careerbadge.csun.edu/badges/valeria-career-activated-csuncc-20260906-0002/",
-      "pageKind": "",
-      "generatorKey": "",
-      "generatorLabel": "",
-      "source": "public-generator",
-      "visitorId": "",
-      "requestPath": "",
-      "context": "issuance",
-      "meta": {}
-    },
-    {
-      "id": "9e2449b1-8003-4694-b893-a1f1687a7a59",
-      "type": "generator_completed",
-      "timestamp": "2026-09-06T19:07:46.617Z",
-      "monthKey": "2026-09",
-      "yearKey": "2026",
-      "badgeId": "CSUNCC-20260906-0002",
-      "badgeSlug": "valeria-career-activated-csuncc-20260906-0002",
-      "badgeTitle": "Career Activated",
-      "badgeTemplateId": "career-activated",
-      "awardeeName": "Valeria",
-      "publicUrl": "https://careerbadge.csun.edu/badges/valeria-career-activated-csuncc-20260906-0002/",
-      "pageKind": "widget-specific",
-      "generatorKey": "career-activated",
-      "generatorLabel": "Career Activated widget",
-      "source": "public-generator",
-      "visitorId": "",
-      "requestPath": "",
-      "context": "completion",
-      "meta": {}
-    },
-    {
-      "id": "dd835f80-e87f-43c4-818e-f6be11d81328",
-      "type": "badge_viewed",
-      "timestamp": "2026-09-06T19:07:52.746Z",
-      "monthKey": "2026-09",
-      "yearKey": "2026",
-      "badgeId": "CSUNCC-20260906-0002",
-      "badgeSlug": "valeria-career-activated-csuncc-20260906-0002",
-      "badgeTitle": "Career Activated",
-      "badgeTemplateId": "career-activated",
-      "awardeeName": "Valeria",
-      "publicUrl": "https://careerbadge.csun.edu/badges/valeria-career-activated-csuncc-20260906-0002/",
-      "pageKind": "",
-      "generatorKey": "general",
-      "generatorLabel": "",
-      "source": "badge-page",
-      "visitorId": "3481b077d588de2255fd3d2e",
-      "requestPath": "/api/analytics/track",
-      "context": "public-badge-page",
-      "meta": {}
-    },
-    {
-      "id": "5b70b034-1a3a-4350-9add-a59522ad7af2",
-      "type": "certificate_downloaded",
-      "timestamp": "2026-09-06T19:08:00.507Z",
-      "monthKey": "2026-09",
-      "yearKey": "2026",
-      "badgeId": "CSUNCC-20260906-0002",
-      "badgeSlug": "valeria-career-activated-csuncc-20260906-0002",
-      "badgeTitle": "Career Activated",
-      "badgeTemplateId": "career-activated",
-      "awardeeName": "Valeria",
-      "publicUrl": "https://careerbadge.csun.edu/badges/valeria-career-activated-csuncc-20260906-0002/",
-      "pageKind": "",
-      "generatorKey": "general",
-      "generatorLabel": "",
-      "source": "badge-page",
-      "visitorId": "3481b077d588de2255fd3d2e",
-      "requestPath": "/api/analytics/track",
-      "context": "badge-certificate-download",
-      "meta": {}
     }
   ],
   "bulkIssueJobs": [
@@ -26109,15 +25889,15 @@
   ],
   "analyticsSummary": {
     "version": 1,
-    "updatedAt": "2026-09-06T19:08:00.511Z",
+    "updatedAt": "2026-09-06T19:05:26.417Z",
     "totals": {
-      "badgesIssued": 108,
-      "badgeViews": 369,
-      "certificateDownloads": 43,
-      "generatorOpens": 143,
-      "generatorCompletions": 72,
-      "conversionRate": 50.3,
-      "uniqueVisitorsApprox": 270
+      "badgesIssued": 107,
+      "badgeViews": 368,
+      "certificateDownloads": 41,
+      "generatorOpens": 142,
+      "generatorCompletions": 71,
+      "conversionRate": 50,
+      "uniqueVisitorsApprox": 269
     },
     "months": [
       {
@@ -26178,26 +25958,26 @@
       {
         "key": "2026-09",
         "label": "Sep 2026",
-        "badgesIssued": 26,
-        "badgeViews": 40,
-        "certificateDownloads": 28,
-        "generatorOpens": 30,
-        "generatorCompletions": 26,
-        "uniqueVisitorsApprox": 39,
-        "conversionRate": 86.7
+        "badgesIssued": 25,
+        "badgeViews": 39,
+        "certificateDownloads": 26,
+        "generatorOpens": 29,
+        "generatorCompletions": 25,
+        "uniqueVisitorsApprox": 38,
+        "conversionRate": 86.2
       }
     ],
     "years": [
       {
         "key": "2026",
         "label": "2026",
-        "badgesIssued": 108,
-        "badgeViews": 369,
-        "certificateDownloads": 43,
-        "generatorOpens": 143,
-        "generatorCompletions": 72,
-        "uniqueVisitorsApprox": 270,
-        "conversionRate": 50.3
+        "badgesIssued": 107,
+        "badgeViews": 368,
+        "certificateDownloads": 41,
+        "generatorOpens": 142,
+        "generatorCompletions": 71,
+        "uniqueVisitorsApprox": 269,
+        "conversionRate": 50
       }
     ],
     "badgeTypes": [
@@ -26214,12 +25994,12 @@
       {
         "id": "career-activated",
         "title": "Career Activated",
-        "badgesIssued": 34,
-        "badgeViews": 42,
-        "certificateDownloads": 31,
-        "generatorOpens": 53,
-        "generatorCompletions": 34,
-        "conversionRate": 64.2
+        "badgesIssued": 33,
+        "badgeViews": 41,
+        "certificateDownloads": 29,
+        "generatorOpens": 52,
+        "generatorCompletions": 33,
+        "conversionRate": 63.5
       },
       {
         "id": "fhtc-e-badge",
@@ -26976,18 +26756,6 @@
         "latestViewedAt": "2026-09-04T01:08:36.419Z"
       },
       {
-        "slug": "valeria-career-activated-csuncc-20260906-0002",
-        "badgeId": "CSUNCC-20260906-0002",
-        "awardeeName": "Valeria",
-        "badgeTitle": "Career Activated",
-        "badgeTemplateId": "career-activated",
-        "publicUrl": "https://careerbadge.csun.edu/badges/valeria-career-activated-csuncc-20260906-0002/",
-        "badgesIssued": 1,
-        "badgeViews": 1,
-        "certificateDownloads": 1,
-        "latestViewedAt": "2026-09-06T19:07:52.746Z"
-      },
-      {
         "slug": "ricardo-vargas-career-champion-csuncc-20260408-0005",
         "badgeId": "CSUNCC-20260408-0005",
         "awardeeName": "Ricardo Vargas",
@@ -27234,18 +27002,6 @@
         "badgeTitle": "Career Activated",
         "badgeTemplateId": "career-activated",
         "publicUrl": "https://careerbadge.csun.edu/badges/laila-rozalia-dixon-career-activated-csuncc-20260904-0002/",
-        "badgesIssued": 1,
-        "badgeViews": 0,
-        "certificateDownloads": 1,
-        "latestViewedAt": ""
-      },
-      {
-        "slug": "valeria-career-activated-csuncc-20260906-0001",
-        "badgeId": "CSUNCC-20260906-0001",
-        "awardeeName": "Valeria",
-        "badgeTitle": "Career Activated",
-        "badgeTemplateId": "career-activated",
-        "publicUrl": "https://careerbadge.csun.edu/badges/valeria-career-activated-csuncc-20260906-0001/",
         "badgesIssued": 1,
         "badgeViews": 0,
         "certificateDownloads": 1,
@@ -27550,6 +27306,18 @@
         "badgeViews": 0,
         "certificateDownloads": 0,
         "latestViewedAt": ""
+      },
+      {
+        "slug": "valeria-career-activated-csuncc-20260906-0001",
+        "badgeId": "CSUNCC-20260906-0001",
+        "awardeeName": "Valeria",
+        "badgeTitle": "Career Activated",
+        "badgeTemplateId": "career-activated",
+        "publicUrl": "https://careerbadge.csun.edu/badges/valeria-career-activated-csuncc-20260906-0001/",
+        "badgesIssued": 1,
+        "badgeViews": 0,
+        "certificateDownloads": 0,
+        "latestViewedAt": ""
       }
     ],
     "generatorPages": [
@@ -27558,9 +27326,9 @@
         "label": "Career Activated widget",
         "pageKind": "specific",
         "templateId": "career-activated",
-        "opens": 53,
-        "completions": 33,
-        "conversionRate": 62.3
+        "opens": 52,
+        "completions": 32,
+        "conversionRate": 61.5
       },
       {
         "key": "general",
@@ -27805,12 +27573,6 @@
         "awardeeName": "Ariel Delgado",
         "badgesIssued": 1,
         "badgeViews": 2,
-        "certificateDownloads": 2
-      },
-      {
-        "awardeeName": "Valeria",
-        "badgesIssued": 2,
-        "badgeViews": 1,
         "certificateDownloads": 2
       },
       {
@@ -28067,6 +27829,12 @@
       },
       {
         "awardeeName": "Nicholas Ibarra",
+        "badgesIssued": 1,
+        "badgeViews": 0,
+        "certificateDownloads": 0
+      },
+      {
+        "awardeeName": "Valeria",
         "badgesIssued": 1,
         "badgeViews": 0,
         "certificateDownloads": 0

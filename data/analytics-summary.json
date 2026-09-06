@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T19:05:01.125Z",
+  "updatedAt": "2026-09-06T19:08:00.511Z",
   "totals": {
-    "badgesIssued": 106,
-    "badgeViews": 368,
-    "certificateDownloads": 41,
-    "generatorOpens": 142,
-    "generatorCompletions": 70,
-    "conversionRate": 49.3,
-    "uniqueVisitorsApprox": 269
+    "badgesIssued": 108,
+    "badgeViews": 369,
+    "certificateDownloads": 43,
+    "generatorOpens": 143,
+    "generatorCompletions": 72,
+    "conversionRate": 50.3,
+    "uniqueVisitorsApprox": 270
   },
   "months": [
     {
@@ -69,26 +69,26 @@
     {
       "key": "2026-09",
       "label": "Sep 2026",
-      "badgesIssued": 24,
-      "badgeViews": 39,
-      "certificateDownloads": 26,
-      "generatorOpens": 29,
-      "generatorCompletions": 24,
-      "uniqueVisitorsApprox": 38,
-      "conversionRate": 82.8
+      "badgesIssued": 26,
+      "badgeViews": 40,
+      "certificateDownloads": 28,
+      "generatorOpens": 30,
+      "generatorCompletions": 26,
+      "uniqueVisitorsApprox": 39,
+      "conversionRate": 86.7
     }
   ],
   "years": [
     {
       "key": "2026",
       "label": "2026",
-      "badgesIssued": 106,
-      "badgeViews": 368,
-      "certificateDownloads": 41,
-      "generatorOpens": 142,
-      "generatorCompletions": 70,
-      "uniqueVisitorsApprox": 269,
-      "conversionRate": 49.3
+      "badgesIssued": 108,
+      "badgeViews": 369,
+      "certificateDownloads": 43,
+      "generatorOpens": 143,
+      "generatorCompletions": 72,
+      "uniqueVisitorsApprox": 270,
+      "conversionRate": 50.3
     }
   ],
   "badgeTypes": [
@@ -105,12 +105,12 @@
     {
       "id": "career-activated",
       "title": "Career Activated",
-      "badgesIssued": 32,
-      "badgeViews": 41,
-      "certificateDownloads": 29,
-      "generatorOpens": 52,
-      "generatorCompletions": 32,
-      "conversionRate": 61.5
+      "badgesIssued": 34,
+      "badgeViews": 42,
+      "certificateDownloads": 31,
+      "generatorOpens": 53,
+      "generatorCompletions": 34,
+      "conversionRate": 64.2
     },
     {
       "id": "fhtc-e-badge",
@@ -867,6 +867,18 @@
       "latestViewedAt": "2026-09-04T01:08:36.419Z"
     },
     {
+      "slug": "valeria-career-activated-csuncc-20260906-0002",
+      "badgeId": "CSUNCC-20260906-0002",
+      "awardeeName": "Valeria",
+      "badgeTitle": "Career Activated",
+      "badgeTemplateId": "career-activated",
+      "publicUrl": "https://careerbadge.csun.edu/badges/valeria-career-activated-csuncc-20260906-0002/",
+      "badgesIssued": 1,
+      "badgeViews": 1,
+      "certificateDownloads": 1,
+      "latestViewedAt": "2026-09-06T19:07:52.746Z"
+    },
+    {
       "slug": "ricardo-vargas-career-champion-csuncc-20260408-0005",
       "badgeId": "CSUNCC-20260408-0005",
       "awardeeName": "Ricardo Vargas",
@@ -1113,6 +1125,18 @@
       "badgeTitle": "Career Activated",
       "badgeTemplateId": "career-activated",
       "publicUrl": "https://careerbadge.csun.edu/badges/laila-rozalia-dixon-career-activated-csuncc-20260904-0002/",
+      "badgesIssued": 1,
+      "badgeViews": 0,
+      "certificateDownloads": 1,
+      "latestViewedAt": ""
+    },
+    {
+      "slug": "valeria-career-activated-csuncc-20260906-0001",
+      "badgeId": "CSUNCC-20260906-0001",
+      "awardeeName": "Valeria",
+      "badgeTitle": "Career Activated",
+      "badgeTemplateId": "career-activated",
+      "publicUrl": "https://careerbadge.csun.edu/badges/valeria-career-activated-csuncc-20260906-0001/",
       "badgesIssued": 1,
       "badgeViews": 0,
       "certificateDownloads": 1,
@@ -1425,9 +1449,9 @@
       "label": "Career Activated widget",
       "pageKind": "specific",
       "templateId": "career-activated",
-      "opens": 52,
-      "completions": 31,
-      "conversionRate": 59.6
+      "opens": 53,
+      "completions": 33,
+      "conversionRate": 62.3
     },
     {
       "key": "general",
@@ -1672,6 +1696,12 @@
       "awardeeName": "Ariel Delgado",
       "badgesIssued": 1,
       "badgeViews": 2,
+      "certificateDownloads": 2
+    },
+    {
+      "awardeeName": "Valeria",
+      "badgesIssued": 2,
+      "badgeViews": 1,
       "certificateDownloads": 2
     },
     {
