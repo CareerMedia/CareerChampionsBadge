@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T17:29:29.969Z",
+  "updatedAt": "2026-09-07T17:29:48.866Z",
   "totals": {
-    "badgesIssued": 114,
+    "badgesIssued": 115,
     "badgeViews": 371,
-    "certificateDownloads": 47,
+    "certificateDownloads": 48,
     "generatorOpens": 151,
-    "generatorCompletions": 78,
-    "conversionRate": 51.7,
+    "generatorCompletions": 79,
+    "conversionRate": 52.3,
     "uniqueVisitorsApprox": 276
   },
   "months": [
@@ -69,26 +69,26 @@
     {
       "key": "2026-09",
       "label": "Sep 2026",
-      "badgesIssued": 32,
+      "badgesIssued": 33,
       "badgeViews": 42,
-      "certificateDownloads": 32,
+      "certificateDownloads": 33,
       "generatorOpens": 38,
-      "generatorCompletions": 32,
+      "generatorCompletions": 33,
       "uniqueVisitorsApprox": 45,
-      "conversionRate": 84.2
+      "conversionRate": 86.8
     }
   ],
   "years": [
     {
       "key": "2026",
       "label": "2026",
-      "badgesIssued": 114,
+      "badgesIssued": 115,
       "badgeViews": 371,
-      "certificateDownloads": 47,
+      "certificateDownloads": 48,
       "generatorOpens": 151,
-      "generatorCompletions": 78,
+      "generatorCompletions": 79,
       "uniqueVisitorsApprox": 276,
-      "conversionRate": 51.7
+      "conversionRate": 52.3
     }
   ],
   "badgeTypes": [
@@ -105,12 +105,12 @@
     {
       "id": "career-activated",
       "title": "Career Activated",
-      "badgesIssued": 40,
+      "badgesIssued": 41,
       "badgeViews": 44,
-      "certificateDownloads": 35,
+      "certificateDownloads": 36,
       "generatorOpens": 61,
-      "generatorCompletions": 40,
-      "conversionRate": 65.6
+      "generatorCompletions": 41,
+      "conversionRate": 67.2
     },
     {
       "id": "fhtc-e-badge",
@@ -1203,6 +1203,18 @@
       "latestViewedAt": ""
     },
     {
+      "slug": "ameera-mourad-career-activated-csuncc-20260906-0007",
+      "badgeId": "CSUNCC-20260906-0007",
+      "awardeeName": "Ameera Mourad",
+      "badgeTitle": "Career Activated",
+      "badgeTemplateId": "career-activated",
+      "publicUrl": "https://careerbadge.csun.edu/badges/ameera-mourad-career-activated-csuncc-20260906-0007/",
+      "badgesIssued": 1,
+      "badgeViews": 0,
+      "certificateDownloads": 1,
+      "latestViewedAt": ""
+    },
+    {
       "slug": "bryce-simon-career-champion-csuncc-20260408-0001",
       "badgeId": "CSUNCC-20260408-0001",
       "awardeeName": "Bryce Simon",
@@ -1522,8 +1534,8 @@
       "pageKind": "specific",
       "templateId": "career-activated",
       "opens": 61,
-      "completions": 39,
-      "conversionRate": 63.9
+      "completions": 40,
+      "conversionRate": 65.6
     },
     {
       "key": "general",
@@ -1867,6 +1879,12 @@
       "certificateDownloads": 1
     },
     {
+      "awardeeName": "Ameera Mourad",
+      "badgesIssued": 2,
+      "badgeViews": 0,
+      "certificateDownloads": 1
+    },
+    {
       "awardeeName": "Maddie Paul",
       "badgesIssued": 2,
       "badgeViews": 0,
@@ -2060,12 +2078,6 @@
     },
     {
       "awardeeName": "Nicholas Ibarra",
-      "badgesIssued": 1,
-      "badgeViews": 0,
-      "certificateDownloads": 0
-    },
-    {
-      "awardeeName": "Ameera Mourad",
       "badgesIssued": 1,
       "badgeViews": 0,
       "certificateDownloads": 0
