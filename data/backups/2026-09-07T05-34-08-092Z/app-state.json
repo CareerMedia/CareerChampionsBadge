@@ -26389,27 +26389,6 @@
       "requestPath": "",
       "context": "completion",
       "meta": {}
-    },
-    {
-      "id": "f133d287-b622-4e80-b599-ebfe0e18ed07",
-      "type": "certificate_downloaded",
-      "timestamp": "2026-09-07T05:34:12.576Z",
-      "monthKey": "2026-09",
-      "yearKey": "2026",
-      "badgeId": "CSUNCC-20260906-0006",
-      "badgeSlug": "johnny-uvera-rodriguez-career-activated-csuncc-20260906-0006",
-      "badgeTitle": "Career Activated",
-      "badgeTemplateId": "career-activated",
-      "awardeeName": "Johnny Uvera Rodriguez",
-      "publicUrl": "https://careerbadge.csun.edu/badges/johnny-uvera-rodriguez-career-activated-csuncc-20260906-0006/",
-      "pageKind": "widget-specific",
-      "generatorKey": "career-activated",
-      "generatorLabel": "",
-      "source": "generator-page",
-      "visitorId": "91c1845c04933cc9ca92be81",
-      "requestPath": "/api/analytics/track",
-      "context": "generator-certificate-download",
-      "meta": {}
     }
   ],
   "bulkIssueJobs": [
@@ -26884,11 +26863,11 @@
   ],
   "analyticsSummary": {
     "version": 1,
-    "updatedAt": "2026-09-07T05:34:12.581Z",
+    "updatedAt": "2026-09-07T05:34:07.587Z",
     "totals": {
       "badgesIssued": 112,
       "badgeViews": 371,
-      "certificateDownloads": 46,
+      "certificateDownloads": 45,
       "generatorOpens": 149,
       "generatorCompletions": 76,
       "conversionRate": 51,
@@ -26955,7 +26934,7 @@
         "label": "Sep 2026",
         "badgesIssued": 30,
         "badgeViews": 42,
-        "certificateDownloads": 31,
+        "certificateDownloads": 30,
         "generatorOpens": 36,
         "generatorCompletions": 30,
         "uniqueVisitorsApprox": 44,
@@ -26968,7 +26947,7 @@
         "label": "2026",
         "badgesIssued": 112,
         "badgeViews": 371,
-        "certificateDownloads": 46,
+        "certificateDownloads": 45,
         "generatorOpens": 149,
         "generatorCompletions": 76,
         "uniqueVisitorsApprox": 275,
@@ -26991,7 +26970,7 @@
         "title": "Career Activated",
         "badgesIssued": 38,
         "badgeViews": 44,
-        "certificateDownloads": 34,
+        "certificateDownloads": 33,
         "generatorOpens": 59,
         "generatorCompletions": 38,
         "conversionRate": 64.4
@@ -28063,18 +28042,6 @@
         "latestViewedAt": ""
       },
       {
-        "slug": "johnny-uvera-rodriguez-career-activated-csuncc-20260906-0006",
-        "badgeId": "CSUNCC-20260906-0006",
-        "awardeeName": "Johnny Uvera Rodriguez",
-        "badgeTitle": "Career Activated",
-        "badgeTemplateId": "career-activated",
-        "publicUrl": "https://careerbadge.csun.edu/badges/johnny-uvera-rodriguez-career-activated-csuncc-20260906-0006/",
-        "badgesIssued": 1,
-        "badgeViews": 0,
-        "certificateDownloads": 1,
-        "latestViewedAt": ""
-      },
-      {
         "slug": "bryce-simon-career-champion-csuncc-20260408-0001",
         "badgeId": "CSUNCC-20260408-0001",
         "awardeeName": "Bryce Simon",
@@ -28369,6 +28336,18 @@
         "badgeTitle": "Career Activated",
         "badgeTemplateId": "career-activated",
         "publicUrl": "https://careerbadge.csun.edu/badges/nicholas-ibarra-career-activated-csuncc-20260905-0001/",
+        "badgesIssued": 1,
+        "badgeViews": 0,
+        "certificateDownloads": 0,
+        "latestViewedAt": ""
+      },
+      {
+        "slug": "johnny-uvera-rodriguez-career-activated-csuncc-20260906-0006",
+        "badgeId": "CSUNCC-20260906-0006",
+        "awardeeName": "Johnny Uvera Rodriguez",
+        "badgeTitle": "Career Activated",
+        "badgeTemplateId": "career-activated",
+        "publicUrl": "https://careerbadge.csun.edu/badges/johnny-uvera-rodriguez-career-activated-csuncc-20260906-0006/",
         "badgesIssued": 1,
         "badgeViews": 0,
         "certificateDownloads": 0,
@@ -28835,12 +28814,6 @@
         "certificateDownloads": 1
       },
       {
-        "awardeeName": "Johnny Uvera Rodriguez",
-        "badgesIssued": 1,
-        "badgeViews": 0,
-        "certificateDownloads": 1
-      },
-      {
         "awardeeName": "Harsh Ahir",
         "badgesIssued": 1,
         "badgeViews": 0,
@@ -28914,6 +28887,12 @@
       },
       {
         "awardeeName": "Nicholas Ibarra",
+        "badgesIssued": 1,
+        "badgeViews": 0,
+        "certificateDownloads": 0
+      },
+      {
+        "awardeeName": "Johnny Uvera Rodriguez",
         "badgesIssued": 1,
         "badgeViews": 0,
         "certificateDownloads": 0
