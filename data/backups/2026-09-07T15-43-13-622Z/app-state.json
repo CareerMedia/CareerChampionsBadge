@@ -26567,27 +26567,6 @@
       "requestPath": "",
       "context": "completion",
       "meta": {}
-    },
-    {
-      "id": "b7094c82-9c81-4244-aaa6-dc358d039622",
-      "type": "certificate_downloaded",
-      "timestamp": "2026-09-07T15:43:18.459Z",
-      "monthKey": "2026-09",
-      "yearKey": "2026",
-      "badgeId": "CSUNCC-20260907-0001",
-      "badgeSlug": "felix-alvarez-career-activated-csuncc-20260907-0001",
-      "badgeTitle": "Career Activated",
-      "badgeTemplateId": "career-activated",
-      "awardeeName": "Felix Alvarez",
-      "publicUrl": "https://careerbadge.csun.edu/badges/felix-alvarez-career-activated-csuncc-20260907-0001/",
-      "pageKind": "widget-specific",
-      "generatorKey": "career-activated",
-      "generatorLabel": "",
-      "source": "generator-page",
-      "visitorId": "8b9a6332f07420101b049aff",
-      "requestPath": "/api/analytics/track",
-      "context": "generator-certificate-download",
-      "meta": {}
     }
   ],
   "bulkIssueJobs": [
@@ -27062,11 +27041,11 @@
   ],
   "analyticsSummary": {
     "version": 1,
-    "updatedAt": "2026-09-07T15:43:18.462Z",
+    "updatedAt": "2026-09-07T15:43:12.924Z",
     "totals": {
       "badgesIssued": 113,
       "badgeViews": 371,
-      "certificateDownloads": 47,
+      "certificateDownloads": 46,
       "generatorOpens": 150,
       "generatorCompletions": 77,
       "conversionRate": 51.3,
@@ -27133,7 +27112,7 @@
         "label": "Sep 2026",
         "badgesIssued": 31,
         "badgeViews": 42,
-        "certificateDownloads": 32,
+        "certificateDownloads": 31,
         "generatorOpens": 37,
         "generatorCompletions": 31,
         "uniqueVisitorsApprox": 45,
@@ -27146,7 +27125,7 @@
         "label": "2026",
         "badgesIssued": 113,
         "badgeViews": 371,
-        "certificateDownloads": 47,
+        "certificateDownloads": 46,
         "generatorOpens": 150,
         "generatorCompletions": 77,
         "uniqueVisitorsApprox": 276,
@@ -27169,7 +27148,7 @@
         "title": "Career Activated",
         "badgesIssued": 39,
         "badgeViews": 44,
-        "certificateDownloads": 35,
+        "certificateDownloads": 34,
         "generatorOpens": 60,
         "generatorCompletions": 39,
         "conversionRate": 65
@@ -28253,18 +28232,6 @@
         "latestViewedAt": ""
       },
       {
-        "slug": "felix-alvarez-career-activated-csuncc-20260907-0001",
-        "badgeId": "CSUNCC-20260907-0001",
-        "awardeeName": "Felix Alvarez",
-        "badgeTitle": "Career Activated",
-        "badgeTemplateId": "career-activated",
-        "publicUrl": "https://careerbadge.csun.edu/badges/felix-alvarez-career-activated-csuncc-20260907-0001/",
-        "badgesIssued": 1,
-        "badgeViews": 0,
-        "certificateDownloads": 1,
-        "latestViewedAt": ""
-      },
-      {
         "slug": "bryce-simon-career-champion-csuncc-20260408-0001",
         "badgeId": "CSUNCC-20260408-0001",
         "awardeeName": "Bryce Simon",
@@ -28559,6 +28526,18 @@
         "badgeTitle": "Career Activated",
         "badgeTemplateId": "career-activated",
         "publicUrl": "https://careerbadge.csun.edu/badges/nicholas-ibarra-career-activated-csuncc-20260905-0001/",
+        "badgesIssued": 1,
+        "badgeViews": 0,
+        "certificateDownloads": 0,
+        "latestViewedAt": ""
+      },
+      {
+        "slug": "felix-alvarez-career-activated-csuncc-20260907-0001",
+        "badgeId": "CSUNCC-20260907-0001",
+        "awardeeName": "Felix Alvarez",
+        "badgeTitle": "Career Activated",
+        "badgeTemplateId": "career-activated",
+        "publicUrl": "https://careerbadge.csun.edu/badges/felix-alvarez-career-activated-csuncc-20260907-0001/",
         "badgesIssued": 1,
         "badgeViews": 0,
         "certificateDownloads": 0,
@@ -29031,12 +29010,6 @@
         "certificateDownloads": 1
       },
       {
-        "awardeeName": "Felix Alvarez",
-        "badgesIssued": 1,
-        "badgeViews": 0,
-        "certificateDownloads": 1
-      },
-      {
         "awardeeName": "Harsh Ahir",
         "badgesIssued": 1,
         "badgeViews": 0,
@@ -29110,6 +29083,12 @@
       },
       {
         "awardeeName": "Nicholas Ibarra",
+        "badgesIssued": 1,
+        "badgeViews": 0,
+        "certificateDownloads": 0
+      },
+      {
+        "awardeeName": "Felix Alvarez",
         "badgesIssued": 1,
         "badgeViews": 0,
         "certificateDownloads": 0

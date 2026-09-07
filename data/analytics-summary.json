@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T15:41:02.499Z",
+  "updatedAt": "2026-09-07T15:43:18.462Z",
   "totals": {
-    "badgesIssued": 112,
+    "badgesIssued": 113,
     "badgeViews": 371,
-    "certificateDownloads": 46,
+    "certificateDownloads": 47,
     "generatorOpens": 150,
-    "generatorCompletions": 76,
-    "conversionRate": 50.7,
+    "generatorCompletions": 77,
+    "conversionRate": 51.3,
     "uniqueVisitorsApprox": 276
   },
   "months": [
@@ -69,26 +69,26 @@
     {
       "key": "2026-09",
       "label": "Sep 2026",
-      "badgesIssued": 30,
+      "badgesIssued": 31,
       "badgeViews": 42,
-      "certificateDownloads": 31,
+      "certificateDownloads": 32,
       "generatorOpens": 37,
-      "generatorCompletions": 30,
+      "generatorCompletions": 31,
       "uniqueVisitorsApprox": 45,
-      "conversionRate": 81.1
+      "conversionRate": 83.8
     }
   ],
   "years": [
     {
       "key": "2026",
       "label": "2026",
-      "badgesIssued": 112,
+      "badgesIssued": 113,
       "badgeViews": 371,
-      "certificateDownloads": 46,
+      "certificateDownloads": 47,
       "generatorOpens": 150,
-      "generatorCompletions": 76,
+      "generatorCompletions": 77,
       "uniqueVisitorsApprox": 276,
-      "conversionRate": 50.7
+      "conversionRate": 51.3
     }
   ],
   "badgeTypes": [
@@ -105,12 +105,12 @@
     {
       "id": "career-activated",
       "title": "Career Activated",
-      "badgesIssued": 38,
+      "badgesIssued": 39,
       "badgeViews": 44,
-      "certificateDownloads": 34,
+      "certificateDownloads": 35,
       "generatorOpens": 60,
-      "generatorCompletions": 38,
-      "conversionRate": 63.3
+      "generatorCompletions": 39,
+      "conversionRate": 65
     },
     {
       "id": "fhtc-e-badge",
@@ -1191,6 +1191,18 @@
       "latestViewedAt": ""
     },
     {
+      "slug": "felix-alvarez-career-activated-csuncc-20260907-0001",
+      "badgeId": "CSUNCC-20260907-0001",
+      "awardeeName": "Felix Alvarez",
+      "badgeTitle": "Career Activated",
+      "badgeTemplateId": "career-activated",
+      "publicUrl": "https://careerbadge.csun.edu/badges/felix-alvarez-career-activated-csuncc-20260907-0001/",
+      "badgesIssued": 1,
+      "badgeViews": 0,
+      "certificateDownloads": 1,
+      "latestViewedAt": ""
+    },
+    {
       "slug": "bryce-simon-career-champion-csuncc-20260408-0001",
       "badgeId": "CSUNCC-20260408-0001",
       "awardeeName": "Bryce Simon",
@@ -1498,8 +1510,8 @@
       "pageKind": "specific",
       "templateId": "career-activated",
       "opens": 60,
-      "completions": 37,
-      "conversionRate": 61.7
+      "completions": 38,
+      "conversionRate": 63.3
     },
     {
       "key": "general",
@@ -1952,6 +1964,12 @@
     },
     {
       "awardeeName": "Johnny Uvera Rodriguez",
+      "badgesIssued": 1,
+      "badgeViews": 0,
+      "certificateDownloads": 1
+    },
+    {
+      "awardeeName": "Felix Alvarez",
       "badgesIssued": 1,
       "badgeViews": 0,
       "certificateDownloads": 1
