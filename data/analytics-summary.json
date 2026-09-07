@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T04:02:55.726Z",
+  "updatedAt": "2026-09-07T04:03:34.930Z",
   "totals": {
-    "badgesIssued": 109,
+    "badgesIssued": 110,
     "badgeViews": 370,
-    "certificateDownloads": 43,
+    "certificateDownloads": 44,
     "generatorOpens": 146,
-    "generatorCompletions": 73,
-    "conversionRate": 50,
+    "generatorCompletions": 74,
+    "conversionRate": 50.7,
     "uniqueVisitorsApprox": 273
   },
   "months": [
@@ -69,26 +69,26 @@
     {
       "key": "2026-09",
       "label": "Sep 2026",
-      "badgesIssued": 27,
+      "badgesIssued": 28,
       "badgeViews": 41,
-      "certificateDownloads": 28,
+      "certificateDownloads": 29,
       "generatorOpens": 33,
-      "generatorCompletions": 27,
+      "generatorCompletions": 28,
       "uniqueVisitorsApprox": 42,
-      "conversionRate": 81.8
+      "conversionRate": 84.8
     }
   ],
   "years": [
     {
       "key": "2026",
       "label": "2026",
-      "badgesIssued": 109,
+      "badgesIssued": 110,
       "badgeViews": 370,
-      "certificateDownloads": 43,
+      "certificateDownloads": 44,
       "generatorOpens": 146,
-      "generatorCompletions": 73,
+      "generatorCompletions": 74,
       "uniqueVisitorsApprox": 273,
-      "conversionRate": 50
+      "conversionRate": 50.7
     }
   ],
   "badgeTypes": [
@@ -105,12 +105,12 @@
     {
       "id": "career-activated",
       "title": "Career Activated",
-      "badgesIssued": 35,
+      "badgesIssued": 36,
       "badgeViews": 43,
-      "certificateDownloads": 31,
+      "certificateDownloads": 32,
       "generatorOpens": 56,
-      "generatorCompletions": 35,
-      "conversionRate": 62.5
+      "generatorCompletions": 36,
+      "conversionRate": 64.3
     },
     {
       "id": "fhtc-e-badge",
@@ -1155,6 +1155,18 @@
       "latestViewedAt": ""
     },
     {
+      "slug": "ryan-kruse-career-activated-csuncc-20260906-0004",
+      "badgeId": "CSUNCC-20260906-0004",
+      "awardeeName": "Ryan Kruse",
+      "badgeTitle": "Career Activated",
+      "badgeTemplateId": "career-activated",
+      "publicUrl": "https://careerbadge.csun.edu/badges/ryan-kruse-career-activated-csuncc-20260906-0004/",
+      "badgesIssued": 1,
+      "badgeViews": 0,
+      "certificateDownloads": 1,
+      "latestViewedAt": ""
+    },
+    {
       "slug": "bryce-simon-career-champion-csuncc-20260408-0001",
       "badgeId": "CSUNCC-20260408-0001",
       "awardeeName": "Bryce Simon",
@@ -1462,8 +1474,8 @@
       "pageKind": "specific",
       "templateId": "career-activated",
       "opens": 56,
-      "completions": 34,
-      "conversionRate": 60.7
+      "completions": 35,
+      "conversionRate": 62.5
     },
     {
       "key": "general",
@@ -1901,6 +1913,12 @@
       "badgesIssued": 1,
       "badgeViews": 1,
       "certificateDownloads": 0
+    },
+    {
+      "awardeeName": "Ryan Kruse",
+      "badgesIssued": 1,
+      "badgeViews": 0,
+      "certificateDownloads": 1
     },
     {
       "awardeeName": "Harsh Ahir",
