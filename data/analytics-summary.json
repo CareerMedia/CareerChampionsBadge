@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T04:45:45.292Z",
+  "updatedAt": "2026-09-07T04:46:09.237Z",
   "totals": {
     "badgesIssued": 111,
-    "badgeViews": 370,
-    "certificateDownloads": 44,
+    "badgeViews": 371,
+    "certificateDownloads": 45,
     "generatorOpens": 148,
     "generatorCompletions": 75,
     "conversionRate": 50.7,
@@ -70,8 +70,8 @@
       "key": "2026-09",
       "label": "Sep 2026",
       "badgesIssued": 29,
-      "badgeViews": 41,
-      "certificateDownloads": 29,
+      "badgeViews": 42,
+      "certificateDownloads": 30,
       "generatorOpens": 35,
       "generatorCompletions": 29,
       "uniqueVisitorsApprox": 43,
@@ -83,8 +83,8 @@
       "key": "2026",
       "label": "2026",
       "badgesIssued": 111,
-      "badgeViews": 370,
-      "certificateDownloads": 44,
+      "badgeViews": 371,
+      "certificateDownloads": 45,
       "generatorOpens": 148,
       "generatorCompletions": 75,
       "uniqueVisitorsApprox": 274,
@@ -106,8 +106,8 @@
       "id": "career-activated",
       "title": "Career Activated",
       "badgesIssued": 37,
-      "badgeViews": 43,
-      "certificateDownloads": 32,
+      "badgeViews": 44,
+      "certificateDownloads": 33,
       "generatorOpens": 58,
       "generatorCompletions": 37,
       "conversionRate": 63.8
@@ -723,6 +723,18 @@
       "latestViewedAt": "2026-09-03T06:39:42.584Z"
     },
     {
+      "slug": "valeria-career-activated-csuncc-20260906-0002",
+      "badgeId": "CSUNCC-20260906-0002",
+      "awardeeName": "Valeria",
+      "badgeTitle": "Career Activated",
+      "badgeTemplateId": "career-activated",
+      "publicUrl": "https://careerbadge.csun.edu/badges/valeria-career-activated-csuncc-20260906-0002/",
+      "badgesIssued": 1,
+      "badgeViews": 2,
+      "certificateDownloads": 1,
+      "latestViewedAt": "2026-09-07T04:46:09.231Z"
+    },
+    {
       "slug": "bryce-simon-career-champion-csuncc-20260504-0005",
       "badgeId": "CSUNCC-20260504-0005",
       "awardeeName": "Bryce Simon",
@@ -865,18 +877,6 @@
       "badgeViews": 1,
       "certificateDownloads": 1,
       "latestViewedAt": "2026-09-04T01:08:36.419Z"
-    },
-    {
-      "slug": "valeria-career-activated-csuncc-20260906-0002",
-      "badgeId": "CSUNCC-20260906-0002",
-      "awardeeName": "Valeria",
-      "badgeTitle": "Career Activated",
-      "badgeTemplateId": "career-activated",
-      "publicUrl": "https://careerbadge.csun.edu/badges/valeria-career-activated-csuncc-20260906-0002/",
-      "badgesIssued": 1,
-      "badgeViews": 1,
-      "certificateDownloads": 1,
-      "latestViewedAt": "2026-09-06T19:07:52.746Z"
     },
     {
       "slug": "ricardo-vargas-career-champion-csuncc-20260408-0005",
@@ -1161,6 +1161,18 @@
       "badgeTitle": "Career Activated",
       "badgeTemplateId": "career-activated",
       "publicUrl": "https://careerbadge.csun.edu/badges/ryan-kruse-career-activated-csuncc-20260906-0004/",
+      "badgesIssued": 1,
+      "badgeViews": 0,
+      "certificateDownloads": 1,
+      "latestViewedAt": ""
+    },
+    {
+      "slug": "jaylin-wardlow-career-activated-csuncc-20260906-0005",
+      "badgeId": "CSUNCC-20260906-0005",
+      "awardeeName": "jaylin wardlow",
+      "badgeTitle": "Career Activated",
+      "badgeTemplateId": "career-activated",
+      "publicUrl": "https://careerbadge.csun.edu/badges/jaylin-wardlow-career-activated-csuncc-20260906-0005/",
       "badgesIssued": 1,
       "badgeViews": 0,
       "certificateDownloads": 1,
@@ -1465,18 +1477,6 @@
       "badgeViews": 0,
       "certificateDownloads": 0,
       "latestViewedAt": ""
-    },
-    {
-      "slug": "jaylin-wardlow-career-activated-csuncc-20260906-0005",
-      "badgeId": "CSUNCC-20260906-0005",
-      "awardeeName": "jaylin wardlow",
-      "badgeTitle": "Career Activated",
-      "badgeTemplateId": "career-activated",
-      "publicUrl": "https://careerbadge.csun.edu/badges/jaylin-wardlow-career-activated-csuncc-20260906-0005/",
-      "badgesIssued": 1,
-      "badgeViews": 0,
-      "certificateDownloads": 0,
-      "latestViewedAt": ""
     }
   ],
   "generatorPages": [
@@ -1675,6 +1675,12 @@
       "certificateDownloads": 2
     },
     {
+      "awardeeName": "Valeria",
+      "badgesIssued": 2,
+      "badgeViews": 2,
+      "certificateDownloads": 2
+    },
+    {
       "awardeeName": "Genesis Lozano-Gonzalez",
       "badgesIssued": 1,
       "badgeViews": 4,
@@ -1732,12 +1738,6 @@
       "awardeeName": "Ariel Delgado",
       "badgesIssued": 1,
       "badgeViews": 2,
-      "certificateDownloads": 2
-    },
-    {
-      "awardeeName": "Valeria",
-      "badgesIssued": 2,
-      "badgeViews": 1,
       "certificateDownloads": 2
     },
     {
@@ -1933,6 +1933,12 @@
       "certificateDownloads": 1
     },
     {
+      "awardeeName": "jaylin wardlow",
+      "badgesIssued": 1,
+      "badgeViews": 0,
+      "certificateDownloads": 1
+    },
+    {
       "awardeeName": "Harsh Ahir",
       "badgesIssued": 1,
       "badgeViews": 0,
@@ -2006,12 +2012,6 @@
     },
     {
       "awardeeName": "Nicholas Ibarra",
-      "badgesIssued": 1,
-      "badgeViews": 0,
-      "certificateDownloads": 0
-    },
-    {
-      "awardeeName": "jaylin wardlow",
       "badgesIssued": 1,
       "badgeViews": 0,
       "certificateDownloads": 0
